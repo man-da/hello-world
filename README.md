@@ -1,2 +1,4 @@
 # hello-world
-我的第一个存储库
+My first repository
+
+Familiarity with repository for the first time，I am learning the front end of web.
